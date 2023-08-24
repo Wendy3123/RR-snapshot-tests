@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Github User: Wendy0928
+  </h1>
+  <img
+    alt="pic of me"
+    src="https://img.freepik.com/free-vector/girl-shy-character_1450-155.jpg?w=2000"
+    width={300}
+  />
+  <p>
+    I'm currently a full time student learning software development. I train 2-3 days a week for figure skating during my free time. I competed in 4 figure skating competitions so far and many more to come.
+     
+  </p>
+</div>
+`;
